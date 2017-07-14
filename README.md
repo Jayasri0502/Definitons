@@ -13,3 +13,6 @@ http://www.fleeangrybear.com/<br>
 https://trionndesign.com/<br>
 <h2> To visit More Websites </h2>
 https://www.intechnic.com/blog/60-beautiful-examples-of-one-page-website-design-inspirations/
+<br>
+<h2> UML Links </h2>
+https://www.smartdraw.com/entity-relationship-diagram/<br>
